@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 export default function PrimeraApp({ saludo,sub }) {
     // const saludo = "Este es un saludo";
-    console.log("hola",saludo)
+    // console.log("hola",saludo)
     return (
         <>
             <h1>{saludo}</h1>
